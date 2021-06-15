@@ -1,6 +1,7 @@
 123456789
 adsfdsaf36214
 adfs54a36dsf
+<<<<<<< HEAD
 666666666
 88888888
 1111111
@@ -13,3 +14,5 @@ cccccccc
 aaaaaa
 bbbb
 cccc
+=======
+>>>>>>> parent of 9eda150 (Update apple.txt)
